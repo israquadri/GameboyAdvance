@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"STORERETURNVAL"
+			],
+			[
+				"RET",
+				"RETURNZERO"
+			],
+			[
+				"Arr",
+				"ARRAY"
+			],
+			[
+				"L",
+				"LENGTH"
+			],
+			[
+				"INCRE",
+				"INCREMENTX"
+			],
+			[
+				"clear",
+				"clearing"
+			],
+			[
+				"legt",
+				"length-1"
+			],
+			[
+				"leng",
+				"length-1"
+			],
+			[
+				"rocket",
+				"rocketHBox"
+			],
+			[
+				"final",
+				"finalString"
+			],
+			[
+				"targ",
+				"targetFile"
+			],
+			[
+				"fina",
+				"finalString"
+			],
+			[
+				"tar",
+				"targetString"
+			],
+			[
+				"File",
+				"FileNotFoundException"
+			],
+			[
+				"Case",
+				"caseSensitive"
+			],
+			[
+				"Illegal",
+				"IllegalArgumentException"
+			],
+			[
+				"case",
+				"caseSensitive"
+			],
+			[
+				"check",
+				"checkCupArray"
+			],
+			[
+				"conc",
+				"concertGrammar"
+			],
+			[
+				"ticket",
+				"ticketsSold"
+			],
+			[
+				"fav",
+				"favoriteMusician"
+			],
+			[
+				"years",
+				"yearsPlaying"
+			],
+			[
+				"album",
+				"albumsBought"
+			],
+			[
+				"concerts",
+				"concertsAttended"
+			],
+			[
+				"year",
+				"yearsAsFan"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"sequ",
+				"sequenceChoice"
+			],
+			[
+				"m",
+				"Math"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+			"/Users/israq/Desktop/2110",
+			"cd",
+			"System.out.print(\"hi\")",
+			"Item new",
+			"jshell",
+			"Joshua Dierberger",
+			"jshell",
+			"java NumberSequences",
+			"javac NumberSequences.java",
+			"javac hf"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/israq/Desktop/2110/docker/hw8/gba.h",
+		"/Users/israq/Downloads/lab18/gba.h",
+		"/Users/israq/Downloads/lab18/lab18.c",
+		"/Users/israq/Downloads/strings.c",
+		"/Users/israq/Desktop/2110/docker/tl3/tl3.asm",
+		"/Users/israq/Desktop/2110/docker/hw6/mult.asm",
+		"/Users/israq/Downloads/hw5 2/student/selectionsort.asm",
+		"/Users/israq/Downloads/lab13/addsubtract.asm",
+		"/Users/israq/Desktop/2110/docker/lab13/addsubtract.asm",
+		"/Users/israq/Downloads/lab14/stacksubtract.asm",
+		"/Users/israq/Desktop/2110/docker/hw5/student/selectionsort.asm",
+		"/Users/israq/Desktop/2110/docker/hw5/student/linkedlist.asm",
+		"/Users/israq/Desktop/2110/docker/hw5/student/printvowels.asm",
+		"/Users/israq/Documents/spring19/1331/hw9/CSPaint.java",
+		"/Users/israq/Desktop/M3/src/Main.java",
+		"/Users/israq/Desktop/M3Old/.idea/compiler.xml",
+		"/Users/israq/Desktop/M3Old/.idea/workspace.xml",
+		"/Users/israq/Desktop/Main.java",
+		"/Users/israq/Desktop/2340Project/SpaceTrader2340/Character.java",
+		"/Users/israq/Desktop/2340Project/SpaceTrader2340/Main.java",
+		"/Users/israq/Desktop/2340Project/SpaceTrader2340/CharacterTraitSelector2340.java",
+		"/Users/israq/Desktop/2340Project/README.md",
+		"/Users/israq/Desktop/spacetrader/Character.java",
+		"/Users/israq/Desktop/repo/src/sample/Main.java",
+		"/Users/israq/Desktop/repo/src/sample/Controller.java",
+		"/Users/israq/Desktop/repo/src/sample/CharacterTraitSelector.java",
+		"/Users/israq/Desktop/spacetrader/src/sample/SpaceTrader.java",
+		"/Users/israq/Desktop/repo/src/sample/Character.java",
+		"/Users/israq/Desktop/M3/src/sample/Main.java",
+		"/Users/israq/Desktop/M3/src/sample/Character.java",
+		"/Users/israq/Desktop/2340/M3/SpaceTrader/src/sample/Main.java",
+		"/Users/israq/Downloads/SpaceTraderSource201/Game.cs",
+		"/Users/israq/Downloads/SpaceTraderSource201/StarSystem.cs",
+		"/Users/israq/Downloads/SpaceTraderSource201/AssemblyInfo.cs",
+		"/Users/israq/Documents/spring 19/1331/hw9/CSPaint.java",
+		"/Users/israq/Desktop/2340/git/M2/src/Person5.java",
+		"/Users/israq/Desktop/2110/hw1/Operations.java",
+		"/Users/israq/Desktop/2110/cs2110docker.sh",
+		"/Users/israq/Desktop/2110/hw1/turn in files/Operations.java",
+		"/Users/israq/Desktop/2110/hw1/turn in files/BitVector.java",
+		"/Users/israq/Desktop/2110/hw1/turn in files/Bases.java",
+		"/Users/israq/Downloads/hw1/Operations.java",
+		"/Users/israq/Downloads/cs2110docker.sh",
+		"/Users/israq/Desktop/1332/HW3/src/ArrayDeque.java",
+		"/Users/israq/Desktop/1332/HW6/src/LinearProbingHashMap.java",
+		"/Users/israq/Desktop/1332/HW4/src/test1.java",
+		"/Users/israq/Desktop/1332/HW4/src/BST.java",
+		"/Users/israq/Desktop/1332/HW5/src/MinHeap.java",
+		"/Users/israq/Desktop/1332/HW5/src/apetest.java",
+		"/Users/israq/Downloads/MinHeap.java",
+		"/Users/israq/Downloads/bitbar-dnscrypt-proxy-switcher-master/dnscrypt-proxy-switcher.10s.sh",
+		"/Users/israq/Downloads/bitbar-dnscrypt-proxy-switcher-master/README.md",
+		"/Users/israq/Desktop/1331/hw9/CSPaint.java",
+		"/Users/israq/Desktop/1331/hw8/InvalidSearchStringException.java",
+		"/Users/israq/Desktop/1331/hw8/Grep.java",
+		"/Users/israq/Desktop/1331/hw5/CoffeeMachine.java",
+		"/Users/israq/Desktop/1331/hw5/Cup.java",
+		"/Users/israq/Desktop/1331/Interface.java",
+		"/Users/israq/Desktop/1331/Chair.java",
+		"/Users/israq/Desktop/1331/ZooSim.java",
+		"/Users/israq/Desktop/1331/sample.java",
+		"/Users/israq/Desktop/1331/Creature.java",
+		"/Users/israq/Desktop/1331/Addition.java",
+		"/Users/israq/Desktop/1331/Student.java",
+		"/Users/israq/Desktop/1331/hw5/CoffeeTest.java",
+		"/Users/israq/Desktop/1331/hw5/Drink.java",
+		"/Users/israq/Desktop/1331/hw5/javadoc/Cup.html",
+		"/Users/israq/Desktop/1331/hw4/Fan.java",
+		"/Users/israq/Desktop/1331/hw4/Musician.java",
+		"/Users/israq/Desktop/1331/hw4/Concert.java",
+		"/Users/israq/Desktop/1331/hw4/ConcertSimulator.java",
+		"/Users/israq/Desktop/too.py",
+		"/Users/israq/Desktop/1331/hw3/InventoryManager.java",
+		"/Users/israq/Desktop/1331/hw3/Inventory.java",
+		"/Users/israq/Desktop/1331/hw3/Item.java",
+		"/Users/israq/Desktop/1331/hw2/NumberSequences.java",
+		"/Users/israq/Desktop/1331/NumberSequences.java",
+		"/Users/israq/Desktop/1331/hw1/TemperatureConverter.java",
+		"/Users/israq/Desktop/1331/TemperatureConverter.java",
+		"/Users/israq/Desktop/TemperatureConverter.java",
+		"/Users/israq/Desktop/Test2.java",
+		"/Users/israq/Desktop/Test.java",
+		"/Users/israq/Library/Application Support/Sublime Text 3/Packages/User/i_opener.sublime-settings",
+		"/Users/israq/Library/Application Support/Sublime Text 3/Packages/iOpener/i_opener.sublime-settings",
+		"/Users/israq/Library/Application Support/sublime Text 3/Packages/iOpener/i_opener.py",
+		"/Users/israq/Desktop/javac Test.java\n\n",
+		"/Users/israq/Desktop/1331 day 1",
+		"/Users/israq/Desktop/cs 1301/lab stuff/Lab 2/Lab1/data.html",
+		"/Users/israq/Desktop/cs 1301/lab stuff/Lab 2/Lab1/data.css",
+		"/Users/israq/Desktop/BlazingSun6.svg",
+		"/Users/israq/Desktop/cs 1301/lab stuff/Lab1/lab1.html",
+		"/Users/israq/Desktop/cs 1301/lab stuff/lab1/lab1.html",
+		"/Users/israq/Desktop/cs 1301/lab stuff/Lab1/style.css",
+		"/Users/israq/Desktop/cs 1301/lab stuff/lab1/style.css",
+		"/Users/israq/Downloads/wholesale.json",
+		"/Users/israq/Downloads/iris.json"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gba.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
